@@ -1,0 +1,11 @@
+__pycache__
+*.pyo
+.vscode
+env
+.python-version
+.venv
+.qt_for_python
+preferences.json
+BIG_REMINDER_DO_NOT_FORGET.txt
+*.log
+_tmp.png
